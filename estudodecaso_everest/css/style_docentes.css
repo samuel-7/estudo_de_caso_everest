@@ -1,0 +1,61 @@
+*{margin: 0; padding: 0;}
+
+#p_docentes{
+    background-color:#44A126;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: white;
+    font-size: 4vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 39px;
+}
+
+.professores_group1{
+    display: inline; 
+    align-items: center;
+}
+
+#prof1{padding-right: 65px; padding-top: 100px; width:24vw;}
+#prof2{padding-right: 65px; width:24vw}
+#prof3{width:24vw}
+
+.professores_group2{
+    display: inline; 
+    align-items: center;
+}
+
+#prof4{padding-right: 65px;padding-top: 65px; width:24vw;}
+#prof5{padding-right: 65px;width:24vw}
+#prof6{width:24vw}
+
+.professores_group3{
+    display: inline; 
+    align-items: center;
+}
+
+#prof7{padding-right: 65px;padding-top: 65px; width:24vw; padding-bottom: 60px;}
+#prof8{padding-right: 65px; padding-bottom: 60px; width:24vw}
+#prof9{width:24vw; padding-bottom: 60px;}
+
+.redes_sociais > p{
+    text-align: right;
+    padding-left: 700px;
+    padding-bottom: 300px;
+    display: inline;
+    
+}
+
+#frase_home{
+    padding-right: 300px;
+    
+}
+
+
+
+#facebook-icon{
+    width: 4vh;
+    
+    
+}

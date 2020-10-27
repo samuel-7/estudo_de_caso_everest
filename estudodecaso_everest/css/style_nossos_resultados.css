@@ -1,0 +1,55 @@
+*{margin: 0; padding: 0;}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#p_nossos_resultados{
+    background-color: #44A126 ;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: white;
+    font-size: 4vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 39px;
+    
+
+    
+}
+
+#nossos_resultados{
+    position: relative;
+    right: 160;
+    margin-left: 160px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    line-height: 30px;
+    width: 400px;
+}
+
+b{
+    color: #44A126;
+}
+
+.redes_sociais > p{
+    text-align: right;
+    padding-left: 700px;
+    padding-bottom: 300px;
+    display: inline;
+    
+}
+
+#frase_home{
+    padding-right: 300px;
+    
+}
+
+
+
+#facebook-icon{
+    width: 4vh;
+    
+    
+}
